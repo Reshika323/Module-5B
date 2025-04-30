@@ -26,4 +26,4 @@ print(np.where(l1==l2))
 
 ## Result
 Thus the python program for element wise comparison between two numpy array has been 
-implemented and executed successf
+implemented and executed successfully
